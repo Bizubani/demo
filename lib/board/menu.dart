@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:clickspace_demo/animations/animated_background.dart';
-import 'file:///D:/Android.Projects/clickspace_demo/lib/board/item.dart';
+import 'package:clickspace_demo/board/item.dart';
 import 'package:flutter/material.dart';
 import 'board_widgets.dart';
 
