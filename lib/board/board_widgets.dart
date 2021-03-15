@@ -20,7 +20,7 @@ class Header extends StatelessWidget {
               scale: 2.5,
             ),
             Text(
-              'You place here',
+              'Your name here',
               style: Theme.of(context).textTheme.headline2,
             )
           ],
